@@ -1,0 +1,3 @@
+https://seaborn.pydata.org/
+
+https://www.geeksforgeeks.org/seaborn-color-palette/
